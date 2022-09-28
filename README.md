@@ -1,2 +1,2 @@
 # myWebsite
-Personal Website ;)
+Feel free to make changes
