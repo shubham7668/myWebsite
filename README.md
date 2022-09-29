@@ -10,13 +10,16 @@ Contributions are always welcome!
 Fork repo, make changes, test, create a pull request.  
 
 Please make sure to maintain authorship.  
+
 (Will send goodies for exceptional changes:)
 
 
 ## Credits 
+  
 1)Anime png & gifs -> https://avatars.alphacoders.com/ 
   
-2)Samarth Singh Pawar   
+2)Samarth Singh  
 
 ## LICENSE
+  
 [MIT](https://github.com/shubham7668/potfolio/blob/main/LICENSE)
